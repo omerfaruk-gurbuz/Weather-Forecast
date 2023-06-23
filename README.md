@@ -1,3 +1,6 @@
+![ezgif com-video-to-gif (7)](https://github.com/Omeko-FG/Weather-Forecast-PURE-JS/assets/119002766/c467b671-e7c4-4c46-a734-e2b405d4985c)
+
+
 # Weather-Forecast
 
 1. PURE JAVASCİRPT İLE YAPILMIŞ APIDEN VERİ ÇEKEN BİR HAVA DURUMU SİTESİ.<BR/>
